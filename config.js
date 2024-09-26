@@ -40,7 +40,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[75px] w-[7
 export const APP_NAME = 'The Ossan Newbie Adventurer';
 export const NavbarName = "The Ossan Newbie Adventurer";
 
-export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga online at ${DOMAIN}.`;
+export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga online at ${DOMAIN}. ${HEADER_MANGA_DESC}`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 
